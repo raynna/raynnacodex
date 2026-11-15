@@ -1,0 +1,5 @@
+tools/data-cache/
+.test-deps/
+__pycache__/
+*.pyc
+dist/codex-previews/

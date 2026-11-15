@@ -1,0 +1,26 @@
+## Interface: 16001
+## Title: Raynna's Codex
+## Notes: Shift-hover item uses, crafting, quests and sources. Standalone offline reference.
+## Author: Raynna
+## Version: 0.3.0
+## OptionalDeps: QuestieDB
+## SavedVariablesPerCharacter: RaynnaCodexDB
+SettingsRegistry.lua
+ForeverRecipes.lua
+Metadata.lua
+MetadataQueries.lua
+Relations.lua
+Relationships.lua
+LootReference.lua
+ForeverReference.lua
+LootSources.lua
+Locations.lua
+Map.lua
+PortraitDisplays.lua
+Portraits.lua
+Descriptions.lua
+Data.lua
+Theme.lua
+UI.lua
+Settings.lua
+Core.lua

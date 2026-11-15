@@ -1,0 +1,5 @@
+* text=auto
+*.lua text eol=lf
+*.png binary
+*.tga binary
+*.zip binary
