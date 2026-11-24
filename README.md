@@ -1,3 +1,5 @@
+**Version 1.0.0 moves the item browser into [Raynna’s Bestiary](https://github.com/raynna/raynnabestiary).** Install Bestiary with its bundled Codex migration loader to carry over existing character data. The earlier standalone release is documented below.
+
 # Raynna’s Codex
 
 Find out **what items are used for, how they are made, and where to find them** with a compact reference browser for **WoW Forever**.
